@@ -1,0 +1,12 @@
+size(400,400);
+strokeWeight(4);
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
+line(random(400),random(400),random(400),random(400));
